@@ -1,12 +1,12 @@
 # PowerBI-HR_Dashboard
 
-This is a guided project to learn Power BI by codebasics on YouTube (www.youtube.com/watch?v=JC66t9eM10s)
-
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMWU0YmM4YjUtNTY4OC00MGI5LWIzMGYtZDk0ZmNkNWFhNDBkIiwidCI6IjhhOGY0OGUyLTdmOTktNDU5OC05MTAwLWEwZjBjY2M0Yjg5NiIsImMiOjZ9
+
+The PowerBI HR Dashboard analyzes employee work preferences (work-from-home vs. office) and wellness trends from April to June 2022. It provides a single-page, interactive visualization of presence, work-from-home, and sick leave percentages, segmented by employee, day of the week, and month. Built using PowerBI Desktop and published to PowerBI Service, it leverages DAX measures and data transformations to deliver actionable insights for optimizing office planning and employee engagement.
 
 ## Objective
 
-The dashboard provides insights into employee preferences for working from home versus working from the office over time, as well as employee wellness trends. It allows employers to identify patterns when multiple employees take sick leave during specific months, enabling proactive measures. Additionally, it assists in understanding why employees frequently choose to work from home on certain days of the week. This information can be used to schedule in-person team-building activities or meetings on days when employee attendance is highest. Moreover, in a hybrid work model, the dashboard supports data-driven decisions for optimizing office capacity planning when concerning space utilization and infrastructure costs.
+The PowerBI HR Dashboard aims to provide actionable insights into employee work preferences and wellness trends to optimize hybrid work strategies. It tracks work-from-home and office attendance patterns, identifies high sick leave periods, and supports data-driven decisions for scheduling team activities, managing office space, and reducing infrastructure costs.
 
 ### Steps followed 
 
@@ -35,7 +35,9 @@ A single page report was created on Power BI Desktop and it was then published t
 - Increasing trend
 - Highest sick leave on Monday and lowest on Friday
 
+## Acknowledgments
 
+- [Dhaval Patel](https://www.youtube.com/@codebasics)
 
 
 
